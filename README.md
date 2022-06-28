@@ -1,5 +1,5 @@
 # how.to
-How.to - Five Step Short Effective Instructions
+How.to - Five Step InShort Effective Instructions
 
 * Be direct. ... 
 
